@@ -3,7 +3,7 @@ class Onelog < Formula
   homepage "https://github.com/webcyou-org/one_log"
   url "https://github.com/webcyou-org/one_log/releases/download/v0.1.0/onelog-v0.1.0-x86_64-apple-darwin.tar.gz"
   version "0.1.0"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "9de82d51fdb84deba67045183ebacbda25d14187fe36a23d64194dfe2484c184"
   license "MIT"
 
   def install
