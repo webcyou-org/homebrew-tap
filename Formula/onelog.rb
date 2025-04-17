@@ -7,10 +7,10 @@ class OneLog < Formula
   license "MIT"
 
   def install
-    bin.install "typeflow"
+    bin.install "onelog"
   end
 
   test do
-    system "#{bin}/typeflow --version"
+    system "#{bin}/onelog --version"
   end
 end
