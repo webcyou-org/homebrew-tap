@@ -11,6 +11,8 @@ brew install <FORMULA>
 
 ## Formulae
 
-| Repository              |   Formula   | Description |
-|:------------------------|:-----------:|:-----------:|
+| Repository                                                                |   Formula   | Description |
+|:--------------------------------------------------------------------------|:-----------:|:-----------:|
 | [open-texture-packer](https://github.com/webcyou-org/open-texture-packer) | [formula](https://github.com/webcyou-org/homebrew-tap/blob/main/Formula/open-texture-packer.rb) | Open source and free Texture Packer tool written in rust. |
+| [one_log](https://github.com/webcyou-org/one_log)                                | [formula](https://github.com/webcyou-org/homebrew-tap/blob/main/Formula/onelog.rb) | Simple log call |
+| [typeflow](https://github.com/webcyou-org/typeflow) | [formula](https://github.com/webcyou-org/homebrew-tap/blob/main/Formula/typeflow.rb) | A simple letter feed crate. |
