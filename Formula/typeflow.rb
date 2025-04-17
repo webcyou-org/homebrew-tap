@@ -1,4 +1,4 @@
-class TypeFlow < Formula
+class Typeflow < Formula
   desc "A simple letter feed crate."
   homepage "https://github.com/webcyou-org/typeflow"
   url "https://github.com/webcyou-org/typeflow/releases/download/v0.1.0/typeflow-v0.1.0-x86_64-apple-darwin.tar.gz"
