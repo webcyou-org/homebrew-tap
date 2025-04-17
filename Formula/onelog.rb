@@ -1,4 +1,4 @@
-class OneLog < Formula
+class Onelog < Formula
   desc "Simple log call"
   homepage "https://github.com/webcyou-org/one_log"
   url "https://github.com/webcyou-org/one_log/releases/download/v0.1.0/onelog-v0.1.0-x86_64-apple-darwin.tar.gz"
